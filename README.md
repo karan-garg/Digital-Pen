@@ -1,6 +1,5 @@
 # Digital-Pen
 C Program developed for the TIVA-C LaunchPad microcontroller. Records movement using accelerometer and renders drawing on OLED screen in real time.
-**Demo**
 
 <img src="https://dl.dropbox.com/s/cp2tnmga160d0da/IMG_20151122_202408_006_small.jpg?dl=0"  width="600" height="250">
 
